@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@mui/icons-material": "^6.1.8",
+    "@mui/material": "^6.1.8",
+    "@toolpad/studio": "^0.10.0",
+    "@toolpad/studio-components": "^0.10.0",
+    "@toolpad/studio-runtime": "^0.10.0",
+    "@toolpad/utils": "^0.10.0",
+    "string.prototype.at": "^1.0.6"
+  }
+}
